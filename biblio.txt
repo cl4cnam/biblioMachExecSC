@@ -1,0 +1,16 @@
+Les éléments suivants sont pris sur Google Scholar
+
+@phdthesis{boufaied1998machines,
+  title={Machines d'execution pour langages synchrones},
+  author={Boufaied, Hedi},
+  year={1998},
+  school={Nice}
+}
+
+@article{andre2000execution,
+  title={Execution machine for synchronous languages},
+  author={Andr{\'e}, Charles and Boufaied, H{\'e}di},
+  journal={IDPT-2000 (Integrated Design and Process Technology), Dallas (TX)},
+  year={2000}
+}
+
