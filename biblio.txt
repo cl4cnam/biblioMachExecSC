@@ -1,4 +1,4 @@
-Les éléments suivants sont pris sur Google Scholar
+Les Ã©lÃ©ments suivants sont pris sur Google Scholar
 
 @phdthesis{boufaied1998machines,
   title={Machines d'execution pour langages synchrones},
@@ -14,3 +14,5 @@ Les éléments suivants sont pris sur Google Scholar
   year={2000}
 }
 
+boufaied1998machines : po, cl
+andre2000execution : po, cl
