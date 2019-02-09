@@ -14,5 +14,25 @@ Les éléments suivants sont pris sur Google Scholar
   year={2000}
 }
 
+@inproceedings{andre2001software,
+  title={Software implementation of synchronous programs},
+  author={Andre, Charles and Boulanger, Fr{\'e}d{\'e}ric and Girault, Alain},
+  booktitle={Application of Concurrency to System Design, 2001. Proceedings. 2001 International Conference on},
+  pages={133--142},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{von2017real,
+  title={Real-time ticks for synchronous programming},
+  author={Von Hanxleden, Reinhard and Bourke, Timothy and Girault, Alain},
+  booktitle={Specification and Design Languages (FDL), 2017 Forum on},
+  pages={1--8},
+  year={2017},
+  organization={IEEE}
+}
+
 boufaied1998machines : po, cl
 andre2000execution : po, cl
+andre2001software : cl
+von2017real : cl
